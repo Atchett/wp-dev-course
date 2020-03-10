@@ -1,6 +1,5 @@
 # WordPress Theme and Plugin Development Course on Udemy
 
-![Zac on camera teaching the course](https://cl.ly/rs2Z/Udemy%20Course%20Cover.png)
 
 These are the files to accompany my [WordPress Development Course on Udemy](https://www.udemy.com/wordpress-theme-and-plugin-development-course/?couponCode=JSFORWP).
 
